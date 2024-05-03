@@ -1,0 +1,223 @@
+html, body, h1, h2, h3, h4, ol, ul, li, a, p{
+    margin: 0;
+    padding: 0;
+    font-family: Calibri, Arial;
+}
+body{
+    background-color: #ffffff;
+}
+
+
+.header{
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    text-align: left;
+    background-color: rgb(5, 5, 45);
+    width: 100%;
+}
+
+
+
+.logo{
+    height: 130px;
+    width: 130px;
+    padding-left: 10px;
+    float: left;
+}
+
+
+
+
+.InicioSesion{
+    color: blue;
+    font-size: 25px;
+    margin-left: 90px;
+    font-weight: bold;
+    
+}
+.Galeria{
+    color: blue;
+    font-size: 25px;
+    margin-left: 40px;
+    font-weight: bold;
+}
+
+
+
+
+
+
+.publicidad{
+    height: 600px;
+    width: 1160px;
+    margin-top:10px ;
+    margin-left: 30px;
+}
+
+.container1{
+    max-width: 1900px;
+    margin: auto;
+    padding: 20px;
+}
+
+#container2{
+    
+    margin: auto;
+    padding-left: 30px;
+    float: none;
+    text-align: center;
+
+}
+.nav{
+    padding-left: 90px;
+   
+}
+.caja1{
+    border: 1px solid black;
+    width: 300px;
+    height: 250px;
+    padding: 20px;
+    background-color: #4f060d;
+    color: #d9d7d7;
+    float: left;
+}
+.caja2{
+    border: 1px solid black;
+    width: 300px;
+    height: 250px;
+    padding: 20px;
+    background-color: #06032a;
+    color: #d9d7d7;
+    float: left;
+}
+.caja3{
+    border: 1px solid black;
+    width: 300px;
+    height: 250px;
+    padding: 20px;
+    background-color: #4f060d;
+    color: #d9d7d7;
+    float: left;
+}
+.caja4{
+    border: 1px solid black;
+    width: 300px;
+    height: 250px;
+    padding: 20px;
+    background-color: #06032a;
+    color: #d9d7d7;
+    float: left;
+}
+.caja5{
+    border: 1px solid black;
+    width: 300px;
+    height: 250px;
+    padding: 20px;
+    background-color: #d9d7d7;
+    float: left;
+}
+
+
+.Sub-titulo{
+    font-size: 30px;
+    float:center;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+
+
+.imagenCorporativa{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+#contenedorini table{
+    width: 500px;
+    margin: auto;
+    margin-top: 30px;
+}
+#contenedorini table tr td{
+    background-color: #F2F2F2;
+    font-family: Calibri;
+    font-size: 18px;
+    text-align: justify;
+    padding: 10px;
+}
+#contenedorini table h3{
+    text-align: center;
+    color: #005E97;
+}
+.camposini{
+    font-size: 30px;
+    border-color:lightgray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.espaciosini{
+    padding-top: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.botonaut{
+    font-size: 28px;
+    background-color: #0067AB;
+    color: #FFFFFF;
+    margin-top: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 140px;
+    padding-right: 140px;
+}
+
+
+
+footer{
+    background-color: rgb(9, 4, 47);
+    color: rgb(253, 251, 254);
+    text-align: center;
+    padding: 10px;
+    bottom: 0;
+    width: 100%;
+}
+.footer2{
+    background-color: rgb(9, 4, 47);
+    color: rgb(253, 251, 254);
+    text-align: center;
+    padding: 10px;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+}
+.botonPasaje{
+    display: inline-block;
+    background-color: #1f98df;
+    color: #fff;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    margin-left: 250px;
+    
+}
+ .center{
+    margin-left: 400px;
+    
+
+
+ }
+ .center2{
+    margin-left: 100px;
+   
+
+
+ }
+ .Fotoredonda{
+    border-radius: 80%;
+    
+}
+ 
